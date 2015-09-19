@@ -23,7 +23,7 @@ Name:       Coordinates in EXIF:       GCPs in File:
 apt         no                         no
 benchmark   no                         no
 boruszyn    no                         YES
-caliterra   no                         no
+caliterra   YES                         no
 copr        no                         yes, but not gcp_list.txt
 glam        no                         no
 langley     no                         no
