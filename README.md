@@ -24,7 +24,7 @@ apt | no | no
 benchmark | yes | no
 boruszyn | no | YES
 **caliterra** | yes | no
-copr | no | no
+copr | no | yes
 glam | no | no
 langley | no | no
 **odm_data_bellus** | yes | no
